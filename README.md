@@ -1,4 +1,4 @@
-# Portifólio
+# Portfólio
 Olá, bem vindos ao meu primeiro portifólio completamente desenvolvido com os cursos de HTML e CSS da Alura
 ## Ferramentas utilizadas
 *HTML
